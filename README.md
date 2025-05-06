@@ -29,7 +29,7 @@ This project implements a MapReduce-like solution to analyze passenger flight da
 
 ## Installation and Dependencies
 ### Installation
-To run the project, first clone the repository:git clone https://github.com/911nobody/Coursework_TaskB_WangRuixuan.git
+To run the project, first clone the repository:git clone https://github.com/911nobody/Cw_TaskB_WangRuixuan.git
 ### Dependencies
 Install the required dependencies using pip:pip install -r requirements.txt
 
